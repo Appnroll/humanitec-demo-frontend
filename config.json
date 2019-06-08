@@ -1,5 +1,5 @@
 {
-  "appTitle": "My App",
-  "modules": [
-  ]
+    "appEntryPoint": "/user",
+    "appTitle": "humanitec-demo",
+    "modules": []
 }
